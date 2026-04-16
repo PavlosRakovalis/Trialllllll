@@ -1,0 +1,19 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Εισαγωγή}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Παράμετροι της διεργασίας}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Σημασία των εξαρτημένων φάσεων}{2}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Ερώτημα 1: Κατασκευή του $X[k]$}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Θεωρητική ανάλυση}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Στατιστικές ιδιότητες}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Υλοποίηση σε Python}{3}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Αποτελέσματα}{4}{subsection.2.4}%
+\contentsline {section}{\numberline {3}Ερώτημα 2: Εκτίμηση Φάσματος Ισχύος $C_x^*(f)$}{6}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Θεωρητική ανάλυση}{6}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Βήμα 1: Εκτίμηση αυτοσυσχέτισης}{6}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}Βήμα 2: Μετασχηματισμός Fourier της αυτοσυσχέτισης}{6}{subsubsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.2}Θεωρητικό φάσμα ισχύος}{6}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Υλοποίηση σε Python}{7}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Αποτελέσματα}{7}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}Ανάλυση αποτελεσμάτων}{7}{subsubsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.5}Φασματική ανάλυση (resolution)}{8}{subsection.3.5}%
+\contentsline {section}{\numberline {4}Συμπεράσματα}{9}{section.4}%
